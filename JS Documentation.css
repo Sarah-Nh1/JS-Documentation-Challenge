@@ -1,0 +1,30 @@
+p{
+    
+}
+/*code
+{
+    /*background-color: lightgray;
+    
+}*/
+
+/*code {
+    font-family: Courier, 'New Courier', monospace;
+    font-size: 12px;}
+    
+    #codeStyler {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin: 1em 0;}*/
+
+.main-section
+{
+    font-size: 100%;
+    font-family: Lucida Sans Regular;
+}
+header
+{
+   font-family: Lucida Sans; 
+   font-size: 200%;
+
+}
